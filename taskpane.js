@@ -262,9 +262,7 @@ function updateUIForNoFlag() {
     const clearFlagBtn = document.getElementById('clearFlagBtn');
     const setFlagBtn = document.getElementById('setFlagBtn');
     
-    flagStatus.className = 'flag-status';
-    flagStatus.style.backgroundColor = '#f0f0f0';
-    flagStatus.style.border = '2px solid #ccc';
+    flagStatus.className = 'flag-status no-flag';
     flagIcon.textContent = '📭';
     statusText.textContent = 'No Follow-Up Flag';
     
