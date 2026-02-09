@@ -340,5 +340,5 @@ For questions about the release process, open an issue on GitHub or contact the 
 
 ---
 
-**Last Updated:** 2026-02-09
+**Last Updated:** 2026-02-09 *(Update this date when modifying the release process)*  
 **Maintainer:** Edgar Miranda Silva
